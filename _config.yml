@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "Han 연습장"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Han yui"
-description              : "An amazing website."
+subtitle                 : # site	 tagline that appears below site title in masthead
+name                     : "한유이(한승재)"
+description              : "온갖거 다해보는 연습장"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Han-yui"
+  name             : "한유이(한승재)"
   avatar           : /assets/images/bio-image.png
-  bio              : "I am an **amazing** person."
+  bio              : "세상에 쓸모없는 프로그래밍은 없다. 일단 만들어 봐라. -Han yui -"
   location         : "Ulsan, Korea"
   email            : "yuihan670@koreahacker.co.kr"
   links:
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Han-seungjae"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
