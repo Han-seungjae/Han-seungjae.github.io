@@ -3,8 +3,12 @@ title: "about"
 permalink: /about/
 author_profile: true
 ---
+
+<br>
+<br>
+<br>
 <center>
-한승재는? 
+유이(승재)는? 
 <hr>
 정보보호에 대해 연구하는 고등학생입니다<br>
 <br>
