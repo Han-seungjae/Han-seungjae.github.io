@@ -1,12 +1,9 @@
 # main links
 main:
-  - title: "home"
-    url: https://han-seungjae.github.io/
-  - title: "yui"
-    url: https://han-seungjae.github.io/about/
-  - title: "note"
-    url: https://han-seungjae.github.io/about/year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "첫화면"
+    url: https://cutehanyui.koreahacker.co.kr/
+  - title: "유이란?"
+    url: https://cutehanyui.koreahacker.co.kr/about/
+  - title: "게시글"
+    url: https://cutehanyui.koreahacker.co.kr/year-archive/
+
