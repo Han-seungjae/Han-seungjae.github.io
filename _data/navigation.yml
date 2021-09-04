@@ -3,9 +3,9 @@ main:
   - title: "home"
     url: https://han-seungjae.github.io/
   - title: "yui"
-     url: https://han-seungjae.github.io/about/
+    url: https://han-seungjae.github.io/about/
   - title: "note"
-     url: https://han-seungjae.github.io/about/year-archive/
+    url: https://han-seungjae.github.io/about/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
