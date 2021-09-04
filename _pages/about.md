@@ -3,7 +3,7 @@ title: "about"
 permalink: /about/
 author_profile: true
 ---
-
+<center>
 한승재는? 
 <hr>
 정보보호에 대해 연구하는 고등학생입니다<br>
