@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home1"
+  - title: "첫 화면"
     url: https://han-seungjae.github.io/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "한유이는?"
+     url: https://han-seungjae.github.io/about/
+  - title: "게시글"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
