@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "첫 화면"
+  - title: "home"
     url: https://han-seungjae.github.io/
-  - title: "한유이는?"
+  - title: "yui"
      url: https://han-seungjae.github.io/about/
-  - title: "게시글"
+  - title: "note"
      url: https://han-seungjae.github.io/about/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
