@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Han-yui"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-image.png
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Ulsan, Korea"
+  email            : "yuihan670@koreahacker.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
